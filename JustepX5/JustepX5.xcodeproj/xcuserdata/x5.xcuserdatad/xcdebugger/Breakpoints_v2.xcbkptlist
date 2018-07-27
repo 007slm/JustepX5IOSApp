@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustepX5/Classes/JustepAppDelegate.m"
+            timestampString = "554352635.754755"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JustepAppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "JustepX5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/x5/Desktop/iphone/JustepX5/JustepX5/Classes/JustepAppDelegate.m"
+                  timestampString = "554352068.805604"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JustepAppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "JustepX5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/x5/Desktop/iphone/JustepX5/JustepX5/Classes/JustepAppDelegate.m"
+                  timestampString = "554352068.805871"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "378">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustepX5/Classes/JustepAppDelegate.m"
+            timestampString = "554352635.754755"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JustepAppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "JustepX5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/x5/Desktop/iphone/JustepX5/JustepX5/Classes/JustepAppDelegate.m"
+                  timestampString = "554355766.709354"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "698">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JustepAppDelegate application:didFinishLaunchingWithOptions:]"
+                  moduleName = "JustepX5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/x5/Desktop/iphone/JustepX5/JustepX5/Classes/JustepAppDelegate.m"
+                  timestampString = "554355766.709716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustepX5/Classes/JustepViewController.h"
+            timestampString = "554352462.5919"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JustepViewController HUD]"
+                  moduleName = "JustepX5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/x5/Desktop/iphone/JustepX5/JustepX5/Classes/JustepViewController.h"
+                  timestampString = "554362346.43135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JustepViewController setHUD:]"
+                  moduleName = "JustepX5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/x5/Desktop/iphone/JustepX5/JustepX5/Classes/JustepViewController.h"
+                  timestampString = "554362346.431648"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
