@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JustepX5.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>131E2003726CE70B8310A1668734D246A8034738</string>
+				<key>dateExpires</key>
+				<string>2020/8/15</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>23VUS45G7B.com.justep.ui.x5</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>23VUS45G7B</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>23VUS45G7B.com.justep.ui.x5</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>JustepX5.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>af364e1a-68cf-4a4f-a2b2-48a78603319d</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.justep.ui.x5</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>23VUS45G7B</string>
+				<key>name</key>
+				<string>Justep Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1660 @@
+2018-07-27 10:05:14 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fd6dff2ac00; archive(resolved)='<IDEArchive: 0x7fd6fb1e0b90>', distributionTask(resolved)='2', distributionMethod(resolved)='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team(resolved)='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fd6dff2ac00; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fd6fc9e0ae0; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionContext: 0x7fd6f74e2e80; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionContext: 0x7fd6e1420a60; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionContext: 0x7fd6fe179ae0; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionContext: 0x7fd6dfee13e0; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionContext: 0x7fd6e0bebdb0; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionContext: 0x7fd6fb174cd0; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionContext: 0x7fd6e0ab4500; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='<IDEProvisioningBasicTeam 0x7fd6fc94fbd0: teamID: 23VUS45G7B, teamName: Justep Co., Ltd.>'>
+	<IDEDistributionContext: 0x7fd6e1619160; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fd6fb6a0af0>', team='(null)'>
+	<IDEDistributionContext: 0x7fd6f7cf77f0; archive = '<IDEArchive: 0x7fd6fb1e0b90>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fd6dff2ac00>
+2018-07-27 10:05:14 +0000  Processing step: IDEDistributionCreateDestRootStep
+2018-07-27 10:05:14 +0000  Processing step: IDEDistributionCopyItemStep
+2018-07-27 10:05:14 +0000  Running /usr/bin/ditto '-V' '/Users/apple/Library/Developer/Xcode/Archives/2018-07-27/JustepX5 2018-7-27 下午6.04.xcarchive/Products/Applications/JustepX5.app' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root/Payload/JustepX5.app'
+2018-07-27 10:05:14 +0000  >>> Copying /Users/apple/Library/Developer/Xcode/Archives/2018-07-27/JustepX5 2018-7-27 下午6.04.xcarchive/Products/Applications/JustepX5.app 
+2018-07-27 10:05:14 +0000  copying file ./1024-748.png ... 
+2018-07-27 10:05:14 +0000  524842 bytes for ./1024-748.png
+copying file ./320-480.png ... 
+2018-07-27 10:05:14 +0000  135532 bytes for ./320-480.png
+copying file ./640-1136.png ... 
+525246 bytes for ./640-1136.png
+copying file ./640-960.png ... 
+458486 bytes for ./640-960.png
+copying file ./768-1004.png ... 
+239094 bytes for ./768-1004.png
+copying file ./ButtonDown.png ... 
+3180 bytes for ./ButtonDown.png
+copying file ./ButtonUp.png ... 
+2018-07-27 10:05:14 +0000  3280 bytes for ./ButtonUp.png
+copying file ./Cancel.png ... 
+4961 bytes for ./Cancel.png
+copying file ./CloseButton.png ... 
+1840 bytes for ./CloseButton.png
+copying file ./CloseButton.psd ... 
+51137 bytes for ./CloseButton.psd
+copying file ./CloseButton@2x.png ... 
+3066 bytes for ./CloseButton@2x.png
+copying file ./Default-568h@2x.png ... 
+525246 bytes for ./Default-568h@2x.png
+copying file ./Default-Landscape~ipad.png ... 
+524842 bytes for ./Default-Landscape~ipad.png
+copying file ./Default-Portrait~ipad.png ... 
+239094 bytes for ./Default-Portrait~ipad.png
+copying file ./Default.png ... 
+135532 bytes for ./Default.png
+copying file ./Info.plist ... 
+1347 bytes for ./Info.plist
+copying file ./JustepApp.js ... 
+137170 bytes for ./JustepApp.js
+copying file ./JustepAttachmentController.nib ... 
+1807 bytes for ./JustepAttachmentController.nib
+copying file ./JustepAttachmentController5.nib ... 
+1807 bytes for ./JustepAttachmentController5.nib
+copying file ./JustepAttachmentControllerPad.nib ... 
+1862 bytes for ./JustepAttachmentControllerPad.nib
+copying file ./JustepRootController.nib ... 
+943 bytes for ./JustepRootController.nib
+copying file ./JustepRootController5.nib ... 
+943 bytes for ./JustepRootController5.nib
+copying file ./JustepRootController6.nib ... 
+943 bytes for ./JustepRootController6.nib
+copying file ./JustepRootController6p.nib ... 
+943 bytes for ./JustepRootController6p.nib
+copying file ./JustepRootControllerPad.nib ... 
+971 bytes for ./JustepRootControllerPad.nib
+copying file ./JustepSettingController.nib ... 
+2018-07-27 10:05:14 +0000  4660 bytes for ./JustepSettingController.nib
+copying file ./JustepSettingController5.nib ... 
+4571 bytes for ./JustepSettingController5.nib
+copying file ./JustepSettingController6.nib ... 
+4575 bytes for ./JustepSettingController6.nib
+copying file ./JustepSettingController6p.nib ... 
+4567 bytes for ./JustepSettingController6p.nib
+copying file ./JustepSettingControllerMobilePad.nib ... 
+4703 bytes for ./JustepSettingControllerMobilePad.nib
+copying file ./JustepSettingControllerPad.nib ... 
+4713 bytes for ./JustepSettingControllerPad.nib
+copying file ./JustepUploader.nib ... 
+943 bytes for ./JustepUploader.nib
+copying file ./JustepUploader5.nib ... 
+943 bytes for ./JustepUploader5.nib
+copying file ./JustepUploaderPad.nib ... 
+934 bytes for ./JustepUploaderPad.nib
+copying file ./JustepViewController.nib ... 
+1551 bytes for ./JustepViewController.nib
+copying file ./JustepViewController5.nib ... 
+1546 bytes for ./JustepViewController5.nib
+copying file ./JustepViewController6.nib ... 
+1551 bytes for ./JustepViewController6.nib
+copying file ./JustepViewController6p.nib ... 
+1551 bytes for ./JustepViewController6p.nib
+copying file ./JustepViewControllerMobilePad.nib ... 
+1518 bytes for ./JustepViewControllerMobilePad.nib
+copying file ./JustepViewControllerPad.nib ... 
+1275 bytes for ./JustepViewControllerPad.nib
+copying file ./JustepX5 ... 
+2206032 bytes for ./JustepX5
+copying file ./JustepX5-Info.plist ... 
+981 bytes for ./JustepX5-Info.plist
+copying file ./Logo.png ... 
+11584 bytes for ./Logo.png
+copying file ./Logo_pad.png ... 
+14250 bytes for ./Logo_pad.png
+copying file ./MGTileMenu-Info.plist ... 
+755 bytes for ./MGTileMenu-Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+copying file ./Settings.bundle/Root.plist ... 
+2197 bytes for ./Settings.bundle/Root.plist
+copying file ./Settings.bundle/en.lproj/Root.strings ... 
+546 bytes for ./Settings.bundle/en.lproj/Root.strings
+copying file ./ShowToolbar.png ... 
+920 bytes for ./ShowToolbar.png
+copying file ./_CodeSignature/CodeResources ... 
+19904 bytes for ./_CodeSignature/CodeResources
+copying file ./archived-expanded-entitlements.xcent ... 
+370 bytes for ./archived-expanded-entitlements.xcent
+copying file ./beep.wav ... 
+8114 bytes for ./beep.wav
+copying file ./blue_gradient@2x.png ... 
+36243 bytes for ./blue_gradient@2x.png
+copying file ./ellipsis@2x.png ... 
+790 bytes for ./ellipsis@2x.png
+copying file ./embedded.mobileprovision ... 
+16951 bytes for ./embedded.mobileprovision
+copying file ./gear@2x.png ... 
+2018-07-27 10:05:14 +0000  2018-07-27 10:05:14 +0000  /usr/bin/ditto exited with 0
+
+2018-07-27 10:05:14 +0000  2527 bytes for ./gear@2x.png
+copying file ./status-bar-pattern-black.jpg ... 
+1159 bytes for ./status-bar-pattern-black.jpg
+copying file ./status-bar-pattern-black@2x.jpg ... 
+1155 bytes for ./status-bar-pattern-black@2x.jpg
+copying file ./status-bar-pattern-default.jpg ... 
+1179 bytes for ./status-bar-pattern-default.jpg
+copying file ./status-bar-pattern-default@2x.jpg ... 
+1208 bytes for ./status-bar-pattern-default@2x.jpg
+copying file ./status-bar-progress.png ... 
+178 bytes for ./status-bar-progress.png
+copying file ./status-bar-progress@2x.png ... 
+1303 bytes for ./status-bar-progress@2x.png
+2018-07-27 10:05:14 +0000  Processing step: IDEDistributionEmbedProfileStep
+2018-07-27 10:05:14 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2018-07-27 10:05:14 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-07-27 10:05:14 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2018-07-27 10:05:14 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root' '--json' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool-json-filepath-sbPHBO' '--compile-bitcode' '--output' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.lwK' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms'
+2018-07-27 10:05:14 +0000  ruby 2.3.3p222 (2016-11-21 revision 56859) [universal.x86_64-darwin17]
+2018-07-27 10:05:14 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - minVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - sdkVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1602: warning: assigned but unused variable - sourceVersion
+2018-07-27 10:05:14 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1703: warning: shadowing outer local variable - node
+2018-07-27 10:05:14 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoFile
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoImage
+2018-07-27 10:05:14 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2497: warning: key :hasBitcode is duplicated and overwritten on line 2499
+2018-07-27 10:05:14 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - flag
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - transformer
+2018-07-27 10:05:14 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2912: warning: assigned but unused variable - exc
+2018-07-27 10:05:14 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:738: warning: assigned but unused variable - output
+2018-07-27 10:05:14 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:98: warning: assigned but unused variable - temp
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:109: warning: assigned but unused variable - e
+2018-07-27 10:05:14 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2018-07-27 10:05:14 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2018-07-27 10:05:14 +0000  OS X 10.13.3 17D47
+2018-07-27 10:05:14 +0000  ENV: {"PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "MallocNanoZone"=>"0", "TMPDIR"=>"/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/", "LOGNAME"=>"apple", "XPC_FLAGS"=>"0x0", "HOME"=>"/Users/apple", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.zJPOO0AImP/Render", "USER"=>"apple", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.ulgFuS3Dqh/Listeners", "XPC_SERVICE_NAME"=>"com.apple.dt.Xcode.2892", "SHELL"=>"/bin/bash", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x19:0x34"}
+ARGV: ["/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root", "--json", "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool-json-filepath-sbPHBO", "--compile-bitcode", "--output", "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.lwK", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms"]
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:101: warning: method redefined; discarding old to_h
+2018-07-27 10:05:14 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-07-27 10:05:14 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-07-27 10:05:14 +0000  warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-07-27 10:05:14 +0000  Scanning IPA...
+2018-07-27 10:05:14 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 1024-748.png JustepX5
+2018-07-27 10:05:14 +0000      /usr/bin/python exited with pid 19272 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:14 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 320-480.png JustepX5
+2018-07-27 10:05:14 +0000      /usr/bin/python exited with pid 19273 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:14 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 640-1136.png JustepX5
+2018-07-27 10:05:14 +0000      /usr/bin/python exited with pid 19274 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:14 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 640-960.png JustepX5
+2018-07-27 10:05:14 +0000      /usr/bin/python exited with pid 19275 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:14 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 768-1004.png JustepX5
+2018-07-27 10:05:14 +0000      /usr/bin/python exited with pid 19276 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:14 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) ButtonDown.png JustepX5
+2018-07-27 10:05:14 +0000      /usr/bin/python exited with pid 19277 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:14 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) ButtonUp.png JustepX5
+2018-07-27 10:05:14 +0000      /usr/bin/python exited with pid 19278 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:14 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Cancel.png JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19279 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) CloseButton.png JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19280 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) CloseButton.psd JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19281 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) CloseButton@2x.png JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19282 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Default-568h@2x.png JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19283 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Default-Landscape\~ipad.png JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19284 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Default-Portrait\~ipad.png JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19285 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Default.png JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19286 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19287 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepApp.js JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19288 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepAttachmentController.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19289 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepAttachmentController5.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19290 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepAttachmentControllerPad.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19291 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootController.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19292 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootController5.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19293 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootController6.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19294 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootController6p.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19295 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootControllerPad.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19296 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingController.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19297 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingController5.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19298 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingController6.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19299 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingController6p.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19300 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingControllerMobilePad.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19301 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingControllerPad.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19302 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepUploader.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19303 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepUploader5.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19304 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepUploaderPad.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19305 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewController.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19306 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewController5.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19307 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewController6.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19308 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewController6p.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19309 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewControllerMobilePad.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19310 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewControllerPad.nib JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19311 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepX5 JustepX5
+2018-07-27 10:05:15 +0000      /usr/bin/python exited with pid 19312 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-07-27 10:05:15 +0000  Complete LinkageGraph:
+    JustepX5.app/JustepX5 armv7 ->
+2018-07-27 10:05:15 +0000  Validating IPA structure...
+2018-07-27 10:05:16 +0000  Compiling bitcode...
+2018-07-27 10:05:16 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool -v -t /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk -o /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5 --generate-dsym /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5.dSYM --strip-swift-symbols /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5
+2018-07-27 10:05:16 +0000    Compiling bitcode for armv7...
+    Compiling armv7 bitcode in 'JustepX5'
+2018-07-27 10:05:19 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/bitcode-build-tool exited with pid 19325 exit 0
+    Stdout:
+        Debug: SDK path: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+        Debug: PATH: ['/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin', '/Applications/Xcode.app/Contents/Developer/usr/bin']
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo
+        MachoInfo: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo" "-info" "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5" 
+        -= Output =-
+        Non-fat file: /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5 is architecture: armv7
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5" 
+        -= Output =-
+        UUID: 549F8399-2C19-31BB-B7EB-ACB1C92CB45A (armv7) /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit
+        ExtractXAR: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/segedit" "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5" "-extract" "__LLVM" "__bundle" "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/JustepX5S9ZC3H/JustepX5.armv7.xar" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Bitcode bundle version: 1.0
+        Debug: Setting platform to: iPhoneOS
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "01" "-o" "01.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "02" "-o" "02.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "03" "-o" "03.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-o
+2018-07-27 10:05:19 +0000  bj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "04" "-o" "04.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "05" "-o" "05.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "06" "-o" "06.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "07" "-o" "07.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "08" "-o" "08.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "09" "-o" "09.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "10" "-o" "10.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "11" "-o" "11.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "12" "-o" "12.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "13" "-o" "13.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3
+2018-07-27 10:05:19 +0000  ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "14" "-o" "14.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "15" "-o" "15.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "16" "-o" "16.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "17" "-o" "17.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "18" "-o" "18.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "19" "-o" "19.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "20" "-o" "20.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "21" "-o" "21.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "22" "-o" "22.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat
+2018-07-27 10:05:19 +0000  -abi" "soft" "-Os" "-x" "ir" "23" "-o" "23.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "24" "-o" "24.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "25" "-o" "25.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "26" "-o" "26.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "27" "-o" "27.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "28" "-o" "28.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "29" "-o" "29.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "30" "-o" "30.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "31" "-o" "31.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "32" "-o" "32.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.
+2018-07-27 10:05:19 +0000  app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "33" "-o" "33.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "34" "-o" "34.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "35" "-o" "35.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "36" "-o" "36.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "37" "-o" "37.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "38" "-o" "38.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "39" "-o" "39.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "40" "-o" "40.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "41" "-o" "41.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "42" "-o" "42.o" 
+        -= Ou
+2018-07-27 10:05:19 +0000  tput =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "43" "-o" "43.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "44" "-o" "44.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "45" "-o" "45.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "46" "-o" "46.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "47" "-o" "47.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "48" "-o" "48.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "49" "-o" "49.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "50" "-o" "50.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "51" "-o" "51.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/u
+2018-07-27 10:05:19 +0000  sr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios6.0.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "52" "-o" "52.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Clang: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang" "-cc1" "-triple" "thumbv7-apple-ios4.3.0" "-emit-obj" "-disable-llvm-passes" "-target-abi" "apcs-gnu" "-mfloat-abi" "soft" "-Os" "-x" "ir" "53" "-o" "53.o" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd
+        Debug: Found framework/dylib: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd
+        Ld: cd /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/tempHcTGGQ
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" "-arch" "armv7" "-execute" "-ios_version_min" "6
+2018-07-27 10:05:19 +0000  .0.0" "-e" "_main" "-executable_path" "/Users/apple/Library/Developer/Xcode/DerivedData/JustepX5-cbnuljmilxqfsifeljtgbeuukyej/Build/Intermediates.noindex/ArchiveIntermediates/JustepX5/InstallationBuildProductsLocation/Applications/JustepX5.app/JustepX5" "-dead_strip" "-syslibroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk" "-sdk_version" "11.2.0" "-filelist" "/private/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/JustepX5S9ZC3H/JustepX5.armv7.out.LinkFileList" "-ignore_auto_link" "-allow_dead_duplicates" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libSystem.B.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk/usr/lib/libobjc.A.tbd" "-force_load" "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.ios.a" "-o" "/private/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/JustepX5S9ZC3H/JustepX5.armv7.out" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        warning: Cannot genarte useful dsym from input macho file: /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5
+        
+        GetUUID: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dwarfdump" "-u" "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5" 
+        -= Output =-
+        UUID: 5B9A8F86-097E-3358-B91B-2F3B9D9EB560 (armv7) /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000
+2018-07-27 10:05:19 +0000  gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil
+        Dsymutil: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil" "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5" "-o" "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5.dSYM" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+        Debug: Using: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip
+        StripSymbols: cd /
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip" "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5" 
+        -= Output =-
+        Exited with 0
+        
+        Debug: Command took 0 seconds
+    
+    Stderr:
+/Applications/Xcode.app/Contents/Developer/usr/bin/symbols -failIfMissingDsym -symbolsPackageDir /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5
+2018-07-27 10:05:20 +0000      /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with pid 19392 exit 0
+    Stdout:
+        /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool20180727-19195-npvj4y/thinned/armv7/Payload/JustepX5.app/JustepX5 [armv7, 0.088887 seconds]:
+    
+    Stderr:
+2018-07-27 10:05:20 +0000  Creating universal IPA contents for all devices
+  Creating directory /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.lwK/universal
+  Copying JustepX5.app output payload directory
+2018-07-27 10:05:20 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:363: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-07-27 10:05:20 +0000    Copying .dSYM files to /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.lwK/universal/dSYMs
+  Copying .symbols files to /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.lwK/universal/Symbols
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 0
+
+2018-07-27 10:05:20 +0000  
+2018-07-27 10:05:20 +0000  ipatool JSON: {
+    alerts =     (
+                {
+            code = 2817;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+    );
+    universalIPA =     {
+        path = "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.lwK/universal";
+    };
+}
+2018-07-27 10:05:20 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2018-07-27 10:05:20 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-07-27 10:05:20 +0000  Processing step: IDEDistributionSymbolsStep
+2018-07-27 10:05:20 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2018-07-27 10:05:20 +0000  Processing step: IDEDistributionAppThinningStep
+2018-07-27 10:05:20 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root' '--json' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool-json-filepath-CkKNPl' '--create-thinned' 'iPhone10,3' '--create-thinned' 'iPhone10,4' '--create-thinned' 'iPhone6,1' '--create-thinned' 'iPhone6,2' '--create-thinned' 'iPhone9,1' '--create-thinned' 'iPhone10,5' '--create-thinned' 'iPhone9,2' '--create-thinned' 'iPad2,1' '--create-thinned' 'iPad2,2' '--create-thinned' 'iPad2,3' '--create-thinned' 'iPhone9,3' '--create-thinned' 'iPad2,4' '--create-thinned' 'iPhone10,6' '--create-thinned' 'iPad2,5' '--create-thinned' 'iPhone9,4' '--create-thinned' 'iPad2,6' '--create-thinned' 'iPad2,7' '--create-thinned' 'iPad3,1' '--create-thinned' 'iPad3,2' '--create-thinned' 'iPad3,3' '--create-thinned' 'iPhone4,1' '--create-thinned' 'iPad3,4' '--create-thinned' 'iPad3,5' '--create-thinned' 'iPad3,6' '--create-thinned' 'iPhone7,1' '--create-thinned' 'iPad4,1' '--create-thinned' 'iPhone7,2' '--create-thinned' 'iPad4,2' '--create-thinned' 'iPod5,1' '--create-thinned' 'iPad4,3' '--create-thinned' 'iPad4,4' '--create-thinned' 'iPad4,5' '--create-thinned' 'iPad4,6' '--create-thinned' 'iPad4,7' '--create-thinned' 'iPad4,8' '--create-thinned' 'iPad6,11' '--create-thinned' 'iPad4,9' '--create-thinned' 'iPad5,1' '--create-thinned' 'iPad6,12' '--create-thinned' 'iPad5,2' '--create-thinned' 'iPad5,3' '--create-thinned' 'iPad5,4' '--create-thinned' 'iPhone5,1' '--create-thinned' 'iPod7,1' '--create-thinned' 'iPhone5,2' '--create-thinned' 'iPad6,3' '--create-thinned' 'iPhone8,1' '--create-thinned' 'iPad6,4' '--create-thinned' 'iPhone5,3' '--create-thinned' 'iPhone8,2' '--create-thinned' 'iPhone5,4' '--create-thinned' 'iPad6,7' '--create-thinned' 'iPhone10,1' '--create-thinned' 'iPad6,8' '--create-thinned' 'iPad7,1' '--create-thinned' 'iPad7,2' '--create-thinned' 'iPhone8,4' '--create-thinned' 'iPad7,3' '--create-thinned' 'iPhone10,2' '--create-thinned' 'iPad7,4' '--output' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.IXs' '--toolchain' '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr' '--platforms' '/Applications/Xcode.app/Contents/Developer/Platforms'
+2018-07-27 10:05:20 +0000  ruby 2.3.3p222 (2016-11-21 revision 56859) [universal.x86_64-darwin17]
+2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - minVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1593: warning: assigned but unused variable - sdkVersion
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1602: warning: assigned but unused variable - sourceVersion
+2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:1703: warning: shadowing outer local variable - node
+2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoFile
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2470: warning: shadowing outer local variable - machoImage
+2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2497: warning: key :hasBitcode is duplicated and overwritten on line 2499
+2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - flag
+/Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2662: warning: assigned but unused variable - transformer
+2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:2912: warning: assigned but unused variable - exc
+2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:738: warning: assigned but unused variable - output
+2018-07-27 10:05:20 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:98: warning: assigned but unused variable - temp
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:109: warning: assigned but unused variable - e
+2018-07-27 10:05:20 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/type.rb:8: warning: method redefined; discarding old annotation
+2018-07-27 10:05:20 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib/libxml/schema/element.rb:18: warning: method redefined; discarding old annotation
+2018-07-27 10:05:20 +0000  OS X 10.13.3 17D47
+2018-07-27 10:05:20 +0000  ENV: {"PATH"=>"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin", "MallocNanoZone"=>"0", "TMPDIR"=>"/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/", "LOGNAME"=>"apple", "XPC_FLAGS"=>"0x0", "HOME"=>"/Users/apple", "Apple_PubSub_Socket_Render"=>"/private/tmp/com.apple.launchd.zJPOO0AImP/Render", "USER"=>"apple", "SSH_AUTH_SOCK"=>"/private/tmp/com.apple.launchd.ulgFuS3Dqh/Listeners", "XPC_SERVICE_NAME"=>"com.apple.dt.Xcode.2892", "SHELL"=>"/bin/bash", "__CF_USER_TEXT_ENCODING"=>"0x1F5:0x19:0x34"}
+ARGV: ["/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root", "--json", "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/ipatool-json-filepath-CkKNPl", "--create-thinned", "iPhone10,3", "--create-thinned", "iPhone10,4", "--create-thinned", "iPhone6,1", "--create-thinned", "iPhone6,2", "--create-thinned", "iPhone9,1", "--create-thinned", "iPhone10,5", "--create-thinned", "iPhone9,2", "--create-thinned", "iPad2,1", "--create-thinned", "iPad2,2", "--create-thinned", "iPad2,3", "--create-thinned", "iPhone9,3", "--create-thinned", "iPad2,4", "--create-thinned", "iPhone10,6", "--create-thinned", "iPad2,5", "--create-thinned", "iPhone9,4", "--create-thinned", "iPad2,6", "--create-thinned", "iPad2,7", "--create-thinned", "iPad3,1", "--create-thinned", "iPad3,2", "--create-thinned", "iPad3,3", "--create-thinned", "iPhone4,1", "--create-thinned", "iPad3,4", "--create-thinned", "iPad3,5", "--create-thinned", "iPad3,6", "--create-thinned", "iPhone7,1", "--create-thinned", "iPad4,1", "--create-thinned", "iPhone7,2", "--create-thinned", "iPad4,2", "--create-thinned", "iPod5,1", "--create-thinned", "iPad4,3", "--create-thinned", "iPad4,4", "--create-thinned", "iPad4,5", "--create-thinned", "iPad4,6", "--create-thinned", "iPad4,7", "--create-thinned", "iPad4,8", "--create-thinned", "iPad6,11", "--create-thinned", "iPad4,9", "--create-thinned", "iPad5,1", "--create-thinned", "iPad6,12", "--create-thinned", "iPad5,2", "--create-thinned", "iPad5,3", "--create-thinned", "iPad5,4", "--create-thinned", "iPhone5,1", "--create-thinned", "iPod7,1", "--create-thinned", "iPhone5,2", "--create-thinned", "iPad6,3", "--create-thinned", "iPhone8,1", "--create-thinned", "iPad6,4", "--create-thinned", "iPhone5,3", "--create-thinned", "iPhone8,2", "--create-thinned", "iPhone5,4", "--create-thinned", "iPad6,7", "--create-thinned", "iPhone10,1", "--create-thinned", "iPad6,8", "--create-thinned", "iPad7,1", "--create-thinned", "iPad7,2", "--create-thinned", "iPhone8,4", "--create-thinned", "iPad7,3", "--create-thinned", "iPhone10,2", "--create-thinned", "iPad7,4", "--output", "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.IXs", "--toolchain", "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr", "--platforms", "/Applications/Xcode.app/Contents/Developer/Platforms"]
+2018-07-27 10:05:20 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool:101: warning: method redefined; discarding old to_h
+2018-07-27 10:05:20 +0000  warning: Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-07-27 10:05:20 +0000  warning: Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-07-27 10:05:20 +0000  warning: Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it
+2018-07-27 10:05:20 +0000  Scanning IPA...
+2018-07-27 10:05:20 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 1024-748.png JustepX5
+2018-07-27 10:05:20 +0000      /usr/bin/python exited with pid 19479 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:20 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 320-480.png JustepX5
+2018-07-27 10:05:20 +0000      /usr/bin/python exited with pid 19480 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:20 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 640-1136.png JustepX5
+2018-07-27 10:05:20 +0000      /usr/bin/python exited with pid 19481 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:20 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 640-960.png JustepX5
+2018-07-27 10:05:20 +0000      /usr/bin/python exited with pid 19482 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:20 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) 768-1004.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19483 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) ButtonDown.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19484 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) ButtonUp.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19485 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Cancel.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19486 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) CloseButton.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19487 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) CloseButton.psd JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19488 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) CloseButton@2x.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19489 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Default-568h@2x.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19490 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Default-Landscape\~ipad.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19491 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Default-Portrait\~ipad.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19492 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Default.png JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19493 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) Info.plist JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19494 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepApp.js JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19495 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepAttachmentController.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19496 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepAttachmentController5.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19497 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepAttachmentControllerPad.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19498 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootController.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19499 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootController5.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19500 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootController6.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19501 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootController6p.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19502 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepRootControllerPad.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19503 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingController.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19504 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingController5.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19505 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingController6.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19506 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingController6p.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19507 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingControllerMobilePad.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19508 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepSettingControllerPad.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19509 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepUploader.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19510 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepUploader5.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19511 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepUploaderPad.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19512 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewController.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19513 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewController5.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19514 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewController6.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19515 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewController6p.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19516 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewControllerMobilePad.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19517 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepViewControllerPad.nib JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19518 exit 0
+    Stdout:
+        False
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  /usr/bin/python -c import\ sys\;\ import\ unicodedata\;\ print\(unicodedata.normalize\(\'NFC\',\ sys.argv\[1\].decode\(\'utf-8\'\)\)\ \=\=\ unicodedata.normalize\(\'NFC\',\ sys.argv\[2\].decode\(\'utf-8\'\)\)\) JustepX5 JustepX5
+2018-07-27 10:05:21 +0000      /usr/bin/python exited with pid 19519 exit 0
+    Stdout:
+        True
+    
+    Stderr:
+2018-07-27 10:05:21 +0000  Complete LinkageGraph:
+    JustepX5.app/JustepX5 armv7 ->
+2018-07-27 10:05:21 +0000  Validating IPA structure...
+Stripping bitcode...
+2018-07-27 10:05:21 +0000  Thinnable AssetCatalogs:
+
+2018-07-27 10:05:21 +0000  AssetTraitGroups:
+---
+2018-07-27 10:05:21 +0000      iphoneos|armv7|pad||1x|s|gamut:sRGB|dynamicDisplayMode:|0m|GLES2,0g|f|
+    iphoneos|armv7|pad||2x|2224s|gamut:P3|dynamicDisplayMode:|3m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|pad||2x|2732s|gamut:P3|dynamicDisplayMode:|3m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|pad||2x|2732s|gamut:sRGB|dynamicDisplayMode:|3m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|pad||2x|s|gamut:all|dynamicDisplayMode:|2m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|pad||2x|s|gamut:sRGB|dynamicDisplayMode:|1m|GLES2,0g|f|
+    iphoneos|armv7|pad||2x|s|gamut:sRGB|dynamicDisplayMode:|1m|MTL1,2g|GLES2,0f|
+    iphoneos|armv7|pad||2x|s|gamut:sRGB|dynamicDisplayMode:|2m|MTL2,2g|MTL1,2+GLES2,0f|
+    iphoneos|armv7|pad||2x|s|gamut:sRGB|dynamicDisplayMode:|2m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|2x|568s|gamut:sRGB|dynamicDisplayMode:|1m|GLES2,0g|f|
+    iphoneos|armv7|phone|car+watch|2x|568s|gamut:sRGB|dynamicDisplayMode:|1m|MTL1,2g|GLES2,0f|
+    iphoneos|armv7|phone|car+watch|2x|568s|gamut:sRGB|dynamicDisplayMode:|2m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|2x|569s|gamut:P3|dynamicDisplayMode:|2m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|2x|569s|gamut:P3|dynamicDisplayMode:|2m|MTL4,1g|MTL3,2+MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|2x|569s|gamut:sRGB|dynamicDisplayMode:|1m|MTL2,2g|MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|2x|569s|gamut:sRGB|dynamicDisplayMode:|2m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|3x|2436s|gamut:P3|dynamicDisplayMode:|4m|MTL4,1g|MTL3,2+MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|3x|570s|gamut:P3|dynamicDisplayMode:|4m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|3x|570s|gamut:P3|dynamicDisplayMode:|4m|MTL4,1g|MTL3,2+MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|3x|570s|gamut:sRGB|dynamicDisplayMode:|1m|MTL2,2g|MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone|car+watch|3x|570s|gamut:sRGB|dynamicDisplayMode:|2m|MTL3,2g|MTL3,1+MTL2,2+MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone||2x|568s|gamut:sRGB|dynamicDisplayMode:|0m|GLES2,0g|f|
+    iphoneos|armv7|phone||2x|568s|gamut:sRGB|dynamicDisplayMode:|1m|MTL2,2g|MTL1,2+GLES2,0f|
+    iphoneos|armv7|phone||2x|s|gamut:sRGB|dynamicDisplayMode:|0m|GLES2,0g|f|
+2018-07-27 10:05:21 +0000  ---
+2018-07-27 10:05:21 +0000  Creating iphoneos|armv7|pad||1x|s|gamut:sRGB|dynamicDisplayMode:|0m|GLES2,0g|f| IPA contents for iPad2,1 iPad2,2 iPad2,3 iPad2,4 iPad2,5 iPad2,6 iPad2,7 iPad3,1 iPad3,2 iPad3,3 iPad3,4 iPad3,5 iPad3,6 iPad4,1 iPad4,2 iPad4,3 iPad4,4 iPad4,5 iPad4,6 iPad4,7 iPad4,8 iPad4,9 iPad5,1 iPad5,2 iPad5,3 iPad5,4 iPad6,11 iPad6,11 iPad6,12 iPad6,12 iPad6,3 iPad6,4 iPad6,7 iPad6,8 iPad7,1 iPad7,2 iPad7,3 iPad7,4 iPhone10,1 iPhone10,2 iPhone10,3 iPhone10,4 iPhone10,5 iPhone10,6 iPhone4,1 iPhone5,1 iPhone5,2 iPhone5,3 iPhone5,4 iPhone6,1 iPhone6,2 iPhone7,1 iPhone7,2 iPhone8,1 iPhone8,1 iPhone8,2 iPhone8,2 iPhone8,4 iPhone8,4 iPhone9,1 iPhone9,2 iPhone9,3 iPhone9,4 iPod5,1 iPod7,1
+  Creating directory /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.IXs/ffeb1aa9978b8df3543d4b4afaa36a51258363a3
+  Thinning JustepX5.app output payload directory
+2018-07-27 10:05:21 +0000      Updating Info.plist with UISupportedDevices keys
+2018-07-27 10:05:21 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:363: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-07-27 10:05:21 +0000  Created IPA at: /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.IXs/ffeb1aa9978b8df3543d4b4afaa36a51258363a3
+   for devices: iPad2,1 (iPad 2)   iPad2,2 (iPad 2)   iPad2,3 (iPad 2)   iPad2,4 (iPad 2)   iPad2,5 (iPad mini)   iPad2,6 (iPad mini)   iPad2,7 (iPad mini)   iPad3,1 (iPad (3rd generation))   iPad3,2 (iPad (3rd generation))   iPad3,3 (iPad (3rd generation))   iPad3,4 (iPad (4th generation))   iPad3,5 (iPad (4th generation))   iPad3,6 (iPad (4th generation))   iPad4,1 (iPad Air)   iPad4,2 (iPad Air)   iPad4,3 (iPad Air)   iPad4,4 (iPad mini 2)   iPad4,5 (iPad mini 2)   iPad4,6 (iPad mini 2)   iPad4,7 (iPad mini 3)   iPad4,8 (iPad mini 3)   iPad4,9 (iPad mini 3)   iPad5,1 (iPad mini 4)   iPad5,2 (iPad mini 4)   iPad5,3 (iPad Air 2)   iPad5,4 (iPad Air 2)   iPad6,11 (iPad (5th generation))   iPad6,11 (iPad (5th generation))   iPad6,12 (iPad (5th generation))   iPad6,12 (iPad (5th generation))   iPad6,3 (iPad Pro (9.7-inch))   iPad6,4 (iPad Pro (9.7-inch))   iPad6,7 (iPad Pro (12.9-inch))   iPad6,8 (iPad Pro (12.9-inch))   iPad7,1 (iPad Pro (12.9-inch) (2nd generation))   iPad7,2 (iPad Pro (12.9-inch) (2nd generation))   iPad7,3 (iPad Pro (10.5-inch))   iPad7,4 (iPad Pro (10.5-inch))   iPhone10,1 (iPhone 8)   iPhone10,2 (iPhone 8 Plus)   iPhone10,3 (iPhone X)   iPhone10,4 (iPhone 8)   iPhone10,5 (iPhone 8 Plus)   iPhone10,6 (iPhone X)   iPhone4,1 (iPhone 4S)   iPhone5,1 (iPhone 5)   iPhone5,2 (iPhone 5)   iPhone5,3 (iPhone 5c)   iPhone5,4 (iPhone 5c)   iPhone6,1 (iPhone 5s)   iPhone6,2 (iPhone 5s)   iPhone7,1 (iPhone 6 Plus)   iPhone7,2 (iPhone 6)   iPhone8,1 (iPhone 6s)   iPhone8,1 (iPhone 6s)   iPhone8,2 (iPhone 6s Plus)   iPhone8,2 (iPhone 6s Plus)   iPhone8,4 (iPhone SE)   iPhone8,4 (iPhone SE)   iPhone9,1 (iPhone 7)   iPhone9,2 (iPhone 7 Plus)   iPhone9,3 (iPhone 7)   iPhone9,4 (iPhone 7 Plus)   iPod5,1 (iPod touch)   iPod7,1 (iPod touch (6th generation))
+
+Creating universal IPA contents for all devices
+  Creating directory /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.IXs/universal
+  Copying JustepX5.app output payload directory
+2018-07-27 10:05:21 +0000  /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib/cfpropertylist/rbCFPropertyList.rb:363: warning: File.exists? is a deprecated name, use File.exist? instead
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/ipatool exited with 02018-07-27 10:05:22 +0000  
+
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  ipatool JSON: {
+    alerts =     (
+                {
+            code = 2817;
+            description = "Configuration issue: platform AppleTVSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform WatchSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        },
+                {
+            code = 2817;
+            description = "Configuration issue: platform iPhoneSimulator.platform doesn't have any non-simulator SDKs; ignoring it";
+            info =             {
+            };
+            level = WARN;
+        }
+    );
+    thinnableAssetCatalogs =     (
+    );
+    thinnedIPAs =     (
+                {
+            devices =             (
+                "iPad2,1",
+                "iPad2,2",
+                "iPad2,3",
+                "iPad2,4",
+                "iPad2,5",
+                "iPad2,6",
+                "iPad2,7",
+                "iPad3,1",
+                "iPad3,2",
+                "iPad3,3",
+                "iPad3,4",
+                "iPad3,5",
+                "iPad3,6",
+                "iPad4,1",
+                "iPad4,2",
+                "iPad4,3",
+                "iPad4,4",
+                "iPad4,5",
+                "iPad4,6",
+                "iPad4,7",
+                "iPad4,8",
+                "iPad4,9",
+                "iPad5,1",
+                "iPad5,2",
+                "iPad5,3",
+                "iPad5,4",
+                "iPad6,11",
+                "iPad6,11",
+                "iPad6,12",
+                "iPad6,12",
+                "iPad6,3",
+                "iPad6,4",
+                "iPad6,7",
+                "iPad6,8",
+                "iPad7,1",
+                "iPad7,2",
+                "iPad7,3",
+                "iPad7,4",
+                "iPhone10,1",
+                "iPhone10,2",
+                "iPhone10,3",
+                "iPhone10,4",
+                "iPhone10,5",
+                "iPhone10,6",
+                "iPhone4,1",
+                "iPhone5,1",
+                "iPhone5,2",
+                "iPhone5,3",
+                "iPhone5,4",
+                "iPhone6,1",
+                "iPhone6,2",
+                "iPhone7,1",
+                "iPhone7,2",
+                "iPhone8,1",
+                "iPhone8,1",
+                "iPhone8,2",
+                "iPhone8,2",
+                "iPhone8,4",
+                "iPhone8,4",
+                "iPhone9,1",
+                "iPhone9,2",
+                "iPhone9,3",
+                "iPhone9,4",
+                "iPod5,1",
+                "iPod7,1"
+            );
+            path = "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.IXs/ffeb1aa9978b8df3543d4b4afaa36a51258363a3";
+            traits =             {
+                architecture = armv7;
+                artworkDevIdiom = pad;
+                artworkDevSubtype = "<null>";
+                artworkDisplayGamut = sRGB;
+                artworkDynamicDisplayMode = "<null>";
+                artworkHostedIdioms =                 (
+                );
+                artworkScaleFactor = 1;
+                devPerfMemoryClass = 0;
+                gfxFeatureSetClass = "GLES2,0";
+                gfxFeatureSetFallbacks =                 (
+                );
+            };
+        }
+    );
+    universalIPA =     {
+        path = "/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/IDEIPAProcessor.AppThinning.IXs/universal";
+    };
+}
+2018-07-27 10:05:22 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2018-07-27 10:05:22 +0000  Processing step: IDEDistributionODRStep
+2018-07-27 10:05:22 +0000  Processing step: IDEDistributionStripXattrsStep
+2018-07-27 10:05:22 +0000  Running /usr/bin/xattr '-crs' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root-iPhone 7 Plus-etc/Payload/JustepX5.app'
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  2018-07-27 10:05:22 +0000  /usr/bin/xattr exited with 0
+
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  Running /usr/bin/xattr '-crs' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root/Payload/JustepX5.app'
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  2018-07-27 10:05:22 +0000  /usr/bin/xattr exited with 0
+
+2018-07-27 10:05:22 +0000  2018-07-27 10:05:22 +0000  
+
+2018-07-27 10:05:22 +0000  Processing step: IDEDistributionCodesignStep
+2018-07-27 10:05:22 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fd6e0aba7b0 'com.justep.ui.x5' '<DVTFilePath:0x7fd6efc127c0:'/Users/apple/Library/Developer/Xcode/Archives/2018-07-27/JustepX5 2018-7-27 下午6.04.xcarchive/Products/Applications/JustepX5.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7fd6f6c05080>: {
+}
+2018-07-27 10:05:22 +0000  Entitlements for <IDEDistributionItem: 0x7fd6e0aba7b0 'com.justep.ui.x5' '<DVTFilePath:0x7fd6efc127c0:'/Users/apple/Library/Developer/Xcode/Archives/2018-07-27/JustepX5 2018-7-27 下午6.04.xcarchive/Products/Applications/JustepX5.app'>'>: {
+    "application-identifier" = "23VUS45G7B.com.justep.ui.x5";
+    "com.apple.developer.team-identifier" = 23VUS45G7B;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "23VUS45G7B.com.justep.ui.x5"
+    );
+}
+2018-07-27 10:05:22 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd6e0aba7b0 'com.justep.ui.x5' '<DVTFilePath:0x7fd6efc127c0:'/Users/apple/Library/Developer/Xcode/Archives/2018-07-27/JustepX5 2018-7-27 下午6.04.xcarchive/Products/Applications/JustepX5.app'>'> to: /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/entitlementsMUGTOh
+2018-07-27 10:05:22 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '131E2003726CE70B8310A1668734D246A8034738' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/entitlementsMUGTOh' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root-iPhone 7 Plus-etc/Payload/JustepX5.app'
+2018-07-27 10:05:22 +0000  /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root-iPhone 7 Plus-etc/Payload/JustepX5.app: signed app bundle with Mach-O thin (armv7) [com.justep.ui.x5]
+2018-07-27 10:05:22 +0000  2018-07-27 10:05:22 +0000  
+
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  
+2018-07-27 10:05:22 +0000  /usr/bin/codesign exited with 0
+2018-07-27 10:05:22 +0000  2018-07-27 10:05:22 +0000  
+
+2018-07-27 10:05:22 +0000  Applying entitlements delta for <IDEDistributionItem: 0x7fd6e0aba7b0 'com.justep.ui.x5' '<DVTFilePath:0x7fd6efc127c0:'/Users/apple/Library/Developer/Xcode/Archives/2018-07-27/JustepX5 2018-7-27 下午6.04.xcarchive/Products/Applications/JustepX5.app'>'> from <IDEiCloudEntitlementsProcessor: 0x7fd6f6c05080>: {
+}
+2018-07-27 10:05:22 +0000  Entitlements for <IDEDistributionItem: 0x7fd6e0aba7b0 'com.justep.ui.x5' '<DVTFilePath:0x7fd6efc127c0:'/Users/apple/Library/Developer/Xcode/Archives/2018-07-27/JustepX5 2018-7-27 下午6.04.xcarchive/Products/Applications/JustepX5.app'>'>: {
+    "application-identifier" = "23VUS45G7B.com.justep.ui.x5";
+    "com.apple.developer.team-identifier" = 23VUS45G7B;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "23VUS45G7B.com.justep.ui.x5"
+    );
+}
+2018-07-27 10:05:22 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd6e0aba7b0 'com.justep.ui.x5' '<DVTFilePath:0x7fd6efc127c0:'/Users/apple/Library/Developer/Xcode/Archives/2018-07-27/JustepX5 2018-7-27 下午6.04.xcarchive/Products/Applications/JustepX5.app'>'> to: /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/entitlements1vNQrV
+2018-07-27 10:05:22 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '131E2003726CE70B8310A1668734D246A8034738' '--preserve-metadata=identifier,flags' '--entitlements' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/entitlements1vNQrV' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root/Payload/JustepX5.app'
+2018-07-27 10:05:23 +0000  /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root/Payload/JustepX5.app: signed app bundle with Mach-O thin (armv7) [com.justep.ui.x5]
+2018-07-27 10:05:23 +0000  2018-07-27 10:05:23 +0000  
+
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  2018-07-27 10:05:23 +0000  
+
+2018-07-27 10:05:23 +0000  2018-07-27 10:05:23 +0000  /usr/bin/codesign exited with 0
+
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  Processing step: IDEDistributionStreamingZipItemStep
+2018-07-27 10:05:23 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-07-27 10:05:23 +0000  Skipping step: IDEDistributionStreamingZipItemStep because it said so
+2018-07-27 10:05:23 +0000  Processing step: IDEDistributionCreateIPAStep
+2018-07-27 10:05:23 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root-iPhone 7 Plus-etc' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Packages/JustepX5-iPhone 7 Plus-etc.ipa'
+2018-07-27 10:05:23 +0000  >>> Copying /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root-iPhone 7 Plus-etc 
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/1024-748.png ... 
+2018-07-27 10:05:23 +0000  524842 bytes for ./Payload/JustepX5.app/1024-748.png
+copying file ./Payload/JustepX5.app/320-480.png ... 
+2018-07-27 10:05:23 +0000  135532 bytes for ./Payload/JustepX5.app/320-480.png
+copying file ./Payload/JustepX5.app/640-1136.png ... 
+2018-07-27 10:05:23 +0000  525246 bytes for ./Payload/JustepX5.app/640-1136.png
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/640-960.png ... 
+2018-07-27 10:05:23 +0000  458486 bytes for ./Payload/JustepX5.app/640-960.png
+copying file ./Payload/JustepX5.app/768-1004.png ... 
+2018-07-27 10:05:23 +0000  239094 bytes for ./Payload/JustepX5.app/768-1004.png
+copying file ./Payload/JustepX5.app/ButtonDown.png ... 
+2018-07-27 10:05:23 +0000  3180 bytes for ./Payload/JustepX5.app/ButtonDown.png
+copying file ./Payload/JustepX5.app/ButtonUp.png ... 
+2018-07-27 10:05:23 +0000  3280 bytes for ./Payload/JustepX5.app/ButtonUp.png
+copying file ./Payload/JustepX5.app/Cancel.png ... 
+2018-07-27 10:05:23 +0000  4961 bytes for ./Payload/JustepX5.app/Cancel.png
+copying file ./Payload/JustepX5.app/CloseButton.png ... 
+2018-07-27 10:05:23 +0000  1840 bytes for ./Payload/JustepX5.app/CloseButton.png
+copying file ./Payload/JustepX5.app/CloseButton.psd ... 
+2018-07-27 10:05:23 +0000  51137 bytes for ./Payload/JustepX5.app/CloseButton.psd
+copying file ./Payload/JustepX5.app/CloseButton@2x.png ... 
+2018-07-27 10:05:23 +0000  3066 bytes for ./Payload/JustepX5.app/CloseButton@2x.png
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/Default-568h@2x.png ... 
+2018-07-27 10:05:23 +0000  525246 bytes for ./Payload/JustepX5.app/Default-568h@2x.png
+copying file ./Payload/JustepX5.app/Default-Landscape~ipad.png ... 
+2018-07-27 10:05:23 +0000  524842 bytes for ./Payload/JustepX5.app/Default-Landscape~ipad.png
+copying file ./Payload/JustepX5.app/Default-Portrait~ipad.png ... 
+2018-07-27 10:05:23 +0000  239094 bytes for ./Payload/JustepX5.app/Default-Portrait~ipad.png
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/Default.png ... 
+2018-07-27 10:05:23 +0000  135532 bytes for ./Payload/JustepX5.app/Default.png
+copying file ./Payload/JustepX5.app/Info.plist ... 
+2018-07-27 10:05:23 +0000  4905 bytes for ./Payload/JustepX5.app/Info.plist
+copying file ./Payload/JustepX5.app/JustepApp.js ... 
+2018-07-27 10:05:23 +0000  137170 bytes for ./Payload/JustepX5.app/JustepApp.js
+copying file ./Payload/JustepX5.app/JustepAttachmentController.nib ... 
+2018-07-27 10:05:23 +0000  1807 bytes for ./Payload/JustepX5.app/JustepAttachmentController.nib
+copying file ./Payload/JustepX5.app/JustepAttachmentController5.nib ... 
+2018-07-27 10:05:23 +0000  1807 bytes for ./Payload/JustepX5.app/JustepAttachmentController5.nib
+copying file ./Payload/JustepX5.app/JustepAttachmentControllerPad.nib ... 
+1862 bytes for ./Payload/JustepX5.app/JustepAttachmentControllerPad.nib
+copying file ./Payload/JustepX5.app/JustepRootController.nib ... 
+943 bytes for ./Payload/JustepX5.app/JustepRootController.nib
+copying file ./Payload/JustepX5.app/JustepRootController5.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepRootController5.nib
+copying file ./Payload/JustepX5.app/JustepRootController6.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepRootController6.nib
+copying file ./Payload/JustepX5.app/JustepRootController6p.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepRootController6p.nib
+copying file ./Payload/JustepX5.app/JustepRootControllerPad.nib ... 
+2018-07-27 10:05:23 +0000  971 bytes for ./Payload/JustepX5.app/JustepRootControllerPad.nib
+copying file ./Payload/JustepX5.app/JustepSettingController.nib ... 
+2018-07-27 10:05:23 +0000  4660 bytes for ./Payload/JustepX5.app/JustepSettingController.nib
+copying file ./Payload/JustepX5.app/JustepSettingController5.nib ... 
+2018-07-27 10:05:23 +0000  4571 bytes for ./Payload/JustepX5.app/JustepSettingController5.nib
+copying file ./Payload/JustepX5.app/JustepSettingController6.nib ... 
+2018-07-27 10:05:23 +0000  4575 bytes for ./Payload/JustepX5.app/JustepSettingController6.nib
+copying file ./Payload/JustepX5.app/JustepSettingController6p.nib ... 
+2018-07-27 10:05:23 +0000  4567 bytes for ./Payload/JustepX5.app/JustepSettingController6p.nib
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/JustepSettingControllerMobilePad.nib ... 
+2018-07-27 10:05:23 +0000  4703 bytes for ./Payload/JustepX5.app/JustepSettingControllerMobilePad.nib
+copying file ./Payload/JustepX5.app/JustepSettingControllerPad.nib ... 
+2018-07-27 10:05:23 +0000  4713 bytes for ./Payload/JustepX5.app/JustepSettingControllerPad.nib
+copying file ./Payload/JustepX5.app/JustepUploader.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepUploader.nib
+copying file ./Payload/JustepX5.app/JustepUploader5.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepUploader5.nib
+copying file ./Payload/JustepX5.app/JustepUploaderPad.nib ... 
+2018-07-27 10:05:23 +0000  934 bytes for ./Payload/JustepX5.app/JustepUploaderPad.nib
+copying file ./Payload/JustepX5.app/JustepViewController.nib ... 
+2018-07-27 10:05:23 +0000  1551 bytes for ./Payload/JustepX5.app/JustepViewController.nib
+copying file ./Payload/JustepX5.app/JustepViewController5.nib ... 
+2018-07-27 10:05:23 +0000  1546 bytes for ./Payload/JustepX5.app/JustepViewController5.nib
+copying file ./Payload/JustepX5.app/JustepViewController6.nib ... 
+2018-07-27 10:05:23 +0000  1551 bytes for ./Payload/JustepX5.app/JustepViewController6.nib
+copying file ./Payload/JustepX5.app/JustepViewController6p.nib ... 
+2018-07-27 10:05:23 +0000  1551 bytes for ./Payload/JustepX5.app/JustepViewController6p.nib
+copying file ./Payload/JustepX5.app/JustepViewControllerMobilePad.nib ... 
+2018-07-27 10:05:23 +0000  1518 bytes for ./Payload/JustepX5.app/JustepViewControllerMobilePad.nib
+copying file ./Payload/JustepX5.app/JustepViewControllerPad.nib ... 
+2018-07-27 10:05:23 +0000  1275 bytes for ./Payload/JustepX5.app/JustepViewControllerPad.nib
+copying file ./Payload/JustepX5.app/JustepX5 ... 
+2018-07-27 10:05:23 +0000  447280 bytes for ./Payload/JustepX5.app/JustepX5
+copying file ./Payload/JustepX5.app/JustepX5-Info.plist ... 
+2018-07-27 10:05:23 +0000  981 bytes for ./Payload/JustepX5.app/JustepX5-Info.plist
+copying file ./Payload/JustepX5.app/Logo.png ... 
+2018-07-27 10:05:23 +0000  11584 bytes for ./Payload/JustepX5.app/Logo.png
+copying file ./Payload/JustepX5.app/Logo_pad.png ... 
+2018-07-27 10:05:23 +0000  14250 bytes for ./Payload/JustepX5.app/Logo_pad.png
+copying file ./Payload/JustepX5.app/MGTileMenu-Info.plist ... 
+2018-07-27 10:05:23 +0000  755 bytes for ./Payload/JustepX5.app/MGTileMenu-Info.plist
+copying file ./Payload/JustepX5.app/PkgInfo ... 
+2018-07-27 10:05:23 +0000  8 bytes for ./Payload/JustepX5.app/PkgInfo
+copying file ./Payload/JustepX5.app/Settings.bundle/Root.plist ... 
+2018-07-27 10:05:23 +0000  2197 bytes for ./Payload/JustepX5.app/Settings.bundle/Root.plist
+copying file ./Payload/JustepX5.app/Settings.bundle/en.lproj/Root.strings ... 
+2018-07-27 10:05:23 +0000  546 bytes for ./Payload/JustepX5.app/Settings.bundle/en.lproj/Root.strings
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/ShowToolbar.png ... 
+2018-07-27 10:05:23 +0000  920 bytes for ./Payload/JustepX5.app/ShowToolbar.png
+copying file ./Payload/JustepX5.app/_CodeSignature/CodeResources ... 
+2018-07-27 10:05:23 +0000  19904 bytes for ./Payload/JustepX5.app/_CodeSignature/CodeResources
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/archived-expanded-entitlements.xcent ... 
+370 bytes for ./Payload/JustepX5.app/archived-expanded-entitlements.xcent
+copying file ./Payload/JustepX5.app/beep.wav ... 
+2018-07-27 10:05:23 +0000  8114 bytes for ./Payload/JustepX5.app/beep.wav
+copying file ./Payload/JustepX5.app/blue_gradient@2x.png ... 
+2018-07-27 10:05:23 +0000  36243 bytes for ./Payload/JustepX5.app/blue_gradient@2x.png
+copying file ./Payload/JustepX5.app/ellipsis@2x.png ... 
+2018-07-27 10:05:23 +0000  790 bytes for ./Payload/JustepX5.app/ellipsis@2x.png
+copying file ./Payload/JustepX5.app/embedded.mobileprovision ... 
+2018-07-27 10:05:23 +0000  7504 bytes for ./Payload/JustepX5.app/embedded.mobileprovision
+copying file ./Payload/JustepX5.app/gear@2x.png ... 
+2018-07-27 10:05:23 +0000  2527 bytes for ./Payload/JustepX5.app/gear@2x.png
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/status-bar-pattern-black.jpg ... 
+1159 bytes for ./Payload/JustepX5.app/status-bar-pattern-black.jpg
+copying file ./Payload/JustepX5.app/status-bar-pattern-black@2x.jpg ... 
+2018-07-27 10:05:23 +0000  1155 bytes for ./Payload/JustepX5.app/status-bar-pattern-black@2x.jpg
+copying file ./Payload/JustepX5.app/status-bar-pattern-default.jpg ... 
+2018-07-27 10:05:23 +0000  1179 bytes for ./Payload/JustepX5.app/status-bar-pattern-default.jpg
+copying file ./Payload/JustepX5.app/status-bar-pattern-default@2x.jpg ... 
+2018-07-27 10:05:23 +0000  1208 bytes for ./Payload/JustepX5.app/status-bar-pattern-default@2x.jpg
+copying file ./Payload/JustepX5.app/status-bar-progress.png ... 
+2018-07-27 10:05:23 +0000  178 bytes for ./Payload/JustepX5.app/status-bar-progress.png
+copying file ./Payload/JustepX5.app/status-bar-progress@2x.png ... 
+2018-07-27 10:05:23 +0000  1303 bytes for ./Payload/JustepX5.app/status-bar-progress@2x.png
+2018-07-27 10:05:23 +0000  2018-07-27 10:05:23 +0000  /usr/bin/ditto exited with 0
+
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root' '/var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Packages/JustepX5.ipa'
+2018-07-27 10:05:23 +0000  >>> Copying /var/folders/nd/_qcsbbnd2jnc3ymr44gvsr_c0000gn/T/XcodeDistPipeline.qBF/Root 
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/1024-748.png ... 
+2018-07-27 10:05:23 +0000  524842 bytes for ./Payload/JustepX5.app/1024-748.png
+copying file ./Payload/JustepX5.app/320-480.png ... 
+2018-07-27 10:05:23 +0000  135532 bytes for ./Payload/JustepX5.app/320-480.png
+copying file ./Payload/JustepX5.app/640-1136.png ... 
+2018-07-27 10:05:23 +0000  525246 bytes for ./Payload/JustepX5.app/640-1136.png
+copying file ./Payload/JustepX5.app/640-960.png ... 
+2018-07-27 10:05:23 +0000  458486 bytes for ./Payload/JustepX5.app/640-960.png
+copying file ./Payload/JustepX5.app/768-1004.png ... 
+2018-07-27 10:05:23 +0000  239094 bytes for ./Payload/JustepX5.app/768-1004.png
+copying file ./Payload/JustepX5.app/ButtonDown.png ... 
+2018-07-27 10:05:23 +0000  3180 bytes for ./Payload/JustepX5.app/ButtonDown.png
+copying file ./Payload/JustepX5.app/ButtonUp.png ... 
+2018-07-27 10:05:23 +0000  3280 bytes for ./Payload/JustepX5.app/ButtonUp.png
+copying file ./Payload/JustepX5.app/Cancel.png ... 
+4961 bytes for ./Payload/JustepX5.app/Cancel.png
+copying file ./Payload/JustepX5.app/CloseButton.png ... 
+2018-07-27 10:05:23 +0000  1840 bytes for ./Payload/JustepX5.app/CloseButton.png
+copying file ./Payload/JustepX5.app/CloseButton.psd ... 
+2018-07-27 10:05:23 +0000  51137 bytes for ./Payload/JustepX5.app/CloseButton.psd
+copying file ./Payload/JustepX5.app/CloseButton@2x.png ... 
+2018-07-27 10:05:23 +0000  3066 bytes for ./Payload/JustepX5.app/CloseButton@2x.png
+copying file ./Payload/JustepX5.app/Default-568h@2x.png ... 
+2018-07-27 10:05:23 +0000  525246 bytes for ./Payload/JustepX5.app/Default-568h@2x.png
+copying file ./Payload/JustepX5.app/Default-Landscape~ipad.png ... 
+2018-07-27 10:05:23 +0000  524842 bytes for ./Payload/JustepX5.app/Default-Landscape~ipad.png
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/Default-Portrait~ipad.png ... 
+2018-07-27 10:05:23 +0000  239094 bytes for ./Payload/JustepX5.app/Default-Portrait~ipad.png
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/Default.png ... 
+2018-07-27 10:05:23 +0000  135532 bytes for ./Payload/JustepX5.app/Default.png
+copying file ./Payload/JustepX5.app/Info.plist ... 
+2018-07-27 10:05:23 +0000  2934 bytes for ./Payload/JustepX5.app/Info.plist
+copying file ./Payload/JustepX5.app/JustepApp.js ... 
+2018-07-27 10:05:23 +0000  137170 bytes for ./Payload/JustepX5.app/JustepApp.js
+copying file ./Payload/JustepX5.app/JustepAttachmentController.nib ... 
+2018-07-27 10:05:23 +0000  1807 bytes for ./Payload/JustepX5.app/JustepAttachmentController.nib
+copying file ./Payload/JustepX5.app/JustepAttachmentController5.nib ... 
+2018-07-27 10:05:23 +0000  1807 bytes for ./Payload/JustepX5.app/JustepAttachmentController5.nib
+copying file ./Payload/JustepX5.app/JustepAttachmentControllerPad.nib ... 
+1862 bytes for ./Payload/JustepX5.app/JustepAttachmentControllerPad.nib
+copying file ./Payload/JustepX5.app/JustepRootController.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepRootController.nib
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/JustepRootController5.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepRootController5.nib
+copying file ./Payload/JustepX5.app/JustepRootController6.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepRootController6.nib
+copying file ./Payload/JustepX5.app/JustepRootController6p.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepRootController6p.nib
+copying file ./Payload/JustepX5.app/JustepRootControllerPad.nib ... 
+2018-07-27 10:05:23 +0000  971 bytes for ./Payload/JustepX5.app/JustepRootControllerPad.nib
+copying file ./Payload/JustepX5.app/JustepSettingController.nib ... 
+2018-07-27 10:05:23 +0000  4660 bytes for ./Payload/JustepX5.app/JustepSettingController.nib
+copying file ./Payload/JustepX5.app/JustepSettingController5.nib ... 
+2018-07-27 10:05:23 +0000  4571 bytes for ./Payload/JustepX5.app/JustepSettingController5.nib
+copying file ./Payload/JustepX5.app/JustepSettingController6.nib ... 
+2018-07-27 10:05:23 +0000  4575 bytes for ./Payload/JustepX5.app/JustepSettingController6.nib
+copying file ./Payload/JustepX5.app/JustepSettingController6p.nib ... 
+2018-07-27 10:05:23 +0000  4567 bytes for ./Payload/JustepX5.app/JustepSettingController6p.nib
+copying file ./Payload/JustepX5.app/JustepSettingControllerMobilePad.nib ... 
+2018-07-27 10:05:23 +0000  4703 bytes for ./Payload/JustepX5.app/JustepSettingControllerMobilePad.nib
+copying file ./Payload/JustepX5.app/JustepSettingControllerPad.nib ... 
+2018-07-27 10:05:23 +0000  4713 bytes for ./Payload/JustepX5.app/JustepSettingControllerPad.nib
+copying file ./Payload/JustepX5.app/JustepUploader.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepUploader.nib
+copying file ./Payload/JustepX5.app/JustepUploader5.nib ... 
+2018-07-27 10:05:23 +0000  943 bytes for ./Payload/JustepX5.app/JustepUploader5.nib
+copying file ./Payload/JustepX5.app/JustepUploaderPad.nib ... 
+2018-07-27 10:05:23 +0000  934 bytes for ./Payload/JustepX5.app/JustepUploaderPad.nib
+copying file ./Payload/JustepX5.app/JustepViewController.nib ... 
+2018-07-27 10:05:23 +0000  1551 bytes for ./Payload/JustepX5.app/JustepViewController.nib
+copying file ./Payload/JustepX5.app/JustepViewController5.nib ... 
+2018-07-27 10:05:23 +0000  1546 bytes for ./Payload/JustepX5.app/JustepViewController5.nib
+copying file ./Payload/JustepX5.app/JustepViewController6.nib ... 
+2018-07-27 10:05:23 +0000  1551 bytes for ./Payload/JustepX5.app/JustepViewController6.nib
+copying file ./Payload/JustepX5.app/JustepViewController6p.nib ... 
+2018-07-27 10:05:23 +0000  1551 bytes for ./Payload/JustepX5.app/JustepViewController6p.nib
+copying file ./Payload/JustepX5.app/JustepViewControllerMobilePad.nib ... 
+2018-07-27 10:05:23 +0000  1518 bytes for ./Payload/JustepX5.app/JustepViewControllerMobilePad.nib
+copying file ./Payload/JustepX5.app/JustepViewControllerPad.nib ... 
+2018-07-27 10:05:23 +0000  1275 bytes for ./Payload/JustepX5.app/JustepViewControllerPad.nib
+copying file ./Payload/JustepX5.app/JustepX5 ... 
+2018-07-27 10:05:23 +0000  447280 bytes for ./Payload/JustepX5.app/JustepX5
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/JustepX5-Info.plist ... 
+981 bytes for ./Payload/JustepX5.app/JustepX5-Info.plist
+copying file ./Payload/JustepX5.app/Logo.png ... 
+2018-07-27 10:05:23 +0000  11584 bytes for ./Payload/JustepX5.app/Logo.png
+copying file ./Payload/JustepX5.app/Logo_pad.png ... 
+2018-07-27 10:05:23 +0000  14250 bytes for ./Payload/JustepX5.app/Logo_pad.png
+copying file ./Payload/JustepX5.app/MGTileMenu-Info.plist ... 
+2018-07-27 10:05:23 +0000  755 bytes for ./Payload/JustepX5.app/MGTileMenu-Info.plist
+copying file ./Payload/JustepX5.app/PkgInfo ... 
+2018-07-27 10:05:23 +0000  8 bytes for ./Payload/JustepX5.app/PkgInfo
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/Settings.bundle/Root.plist ... 
+2018-07-27 10:05:23 +0000  2197 bytes for ./Payload/JustepX5.app/Settings.bundle/Root.plist
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/Settings.bundle/en.lproj/Root.strings ... 
+2018-07-27 10:05:23 +0000  546 bytes for ./Payload/JustepX5.app/Settings.bundle/en.lproj/Root.strings
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/ShowToolbar.png ... 
+2018-07-27 10:05:23 +0000  920 bytes for ./Payload/JustepX5.app/ShowToolbar.png
+copying file ./Payload/JustepX5.app/_CodeSignature/CodeResources ... 
+2018-07-27 10:05:23 +0000  19904 bytes for ./Payload/JustepX5.app/_CodeSignature/CodeResources
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/archived-expanded-entitlements.xcent ... 
+370 bytes for ./Payload/JustepX5.app/archived-expanded-entitlements.xcent
+copying file ./Payload/JustepX5.app/beep.wav ... 
+2018-07-27 10:05:23 +0000  8114 bytes for ./Payload/JustepX5.app/beep.wav
+copying file ./Payload/JustepX5.app/blue_gradient@2x.png ... 
+2018-07-27 10:05:23 +0000  36243 bytes for ./Payload/JustepX5.app/blue_gradient@2x.png
+copying file ./Payload/JustepX5.app/ellipsis@2x.png ... 
+2018-07-27 10:05:23 +0000  790 bytes for ./Payload/JustepX5.app/ellipsis@2x.png
+copying file ./Payload/JustepX5.app/embedded.mobileprovision ... 
+2018-07-27 10:05:23 +0000  7504 bytes for ./Payload/JustepX5.app/embedded.mobileprovision
+copying file ./Payload/JustepX5.app/gear@2x.png ... 
+2018-07-27 10:05:23 +0000  2527 bytes for ./Payload/JustepX5.app/gear@2x.png
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/status-bar-pattern-black.jpg ... 
+1159 bytes for ./Payload/JustepX5.app/status-bar-pattern-black.jpg
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/status-bar-pattern-black@2x.jpg ... 
+1155 bytes for ./Payload/JustepX5.app/status-bar-pattern-black@2x.jpg
+2018-07-27 10:05:23 +0000  copying file ./Payload/JustepX5.app/status-bar-pattern-default.jpg ... 
+1179 bytes for ./Payload/JustepX5.app/status-bar-pattern-default.jpg
+copying file ./Payload/JustepX5.app/status-bar-pattern-default@2x.jpg ... 
+2018-07-27 10:05:23 +0000  1208 bytes for ./Payload/JustepX5.app/status-bar-pattern-default@2x.jpg
+copying file ./Payload/JustepX5.app/status-bar-progress.png ... 
+2018-07-27 10:05:23 +0000  178 bytes for ./Payload/JustepX5.app/status-bar-progress.png
+copying file ./Payload/JustepX5.app/status-bar-progress@2x.png ... 
+2018-07-27 10:05:23 +0000  1303 bytes for ./Payload/JustepX5.app/status-bar-progress@2x.png
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  2018-07-27 10:05:23 +0000  /usr/bin/ditto exited with 0
+
+2018-07-27 10:05:23 +0000  
+2018-07-27 10:05:23 +0000  Processing step: IDEDistributionCreateManifestStep
+2018-07-27 10:05:23 +0000  Processing step: IDEDistributionAppThinningManifestStep
